@@ -1,5 +1,5 @@
 # Tomato Leaf Disease Classification using Image Processing and Machine Learning
-
+![Image](https://github.com/user-attachments/assets/b2f07cd3-623e-461a-bb1c-dfe5a1af4311)
 ## 📘 Project Overview
 
 This project explores the application of image processing and machine learning techniques for the automated classification of tomato leaf diseases. The study aims to assist farmers and agricultural practitioners by providing a reliable, fast, and accurate tool for disease detection, ultimately improving crop yield and food security.
